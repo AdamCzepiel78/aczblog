@@ -1,6 +1,11 @@
 +++
 date = '2024-12-18T10:51:12+01:00'
 draft = false
+params:
+  author: Adam Czepiel 
+tags: 
+- first 
+- post
 title = 'My First Post'
 +++
 ## Introduction
