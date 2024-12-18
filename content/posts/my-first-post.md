@@ -1,10 +1,10 @@
 +++
 date = '2024-12-18T10:51:12+01:00'
 draft = false
-tags: ['red', 'blue']
+tags = ['red', 'blue']
 title = 'My First Post'
 [params]
-  author= 'Adam Czepiel'
+  author = 'Adam Czepiel'
 +++
 ## Introduction
 
